@@ -4,7 +4,7 @@ using BankApiService.Controllers;
 namespace BankApiService
 {
     public class Program
-    {
+    { //1
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
